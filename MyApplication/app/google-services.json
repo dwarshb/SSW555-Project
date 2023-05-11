@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517546837974",
+    "project_id": "solarmanagement-126c8",
+    "storage_bucket": "solarmanagement-126c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517546837974:android:64e8f294423a5515eec677",
+        "android_client_info": {
+          "package_name": "com.dwarsh.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517546837974-jp672087u9kj5kretssm0hjb18talvn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1DitdgJpGkO-z9qvR2dKTAcph7Fi4Na4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517546837974-jp672087u9kj5kretssm0hjb18talvn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
